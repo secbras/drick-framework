@@ -41,4 +41,4 @@ Este projeto está licenciado sob a MIT License (https://opensource.org/licenses
 
 Utilize o Drick Framework para simplificar e otimizar suas tarefas de rede e desenvolvimento. Fortaleça sua segurança e eficiência com esta ferramenta poderosa!
 
-Desenvolvido pela SecBras Research
+**Desenvolvido pela SecBras Research**
