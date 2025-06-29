@@ -1,7 +1,7 @@
 
 <img src="https://github.com/secbras/drick-framework/blob/main/drick.png" alt="Drick Framework">
 
-<h1>Drick Framework v1.0</h1>
+<h1>Drick Framework v1.1</h1>
 
 ---
 
