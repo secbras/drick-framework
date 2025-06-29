@@ -1,0 +1,5 @@
+requests
+pycountry
+psutil
+bs4
+colorama
